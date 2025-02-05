@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Edgar.
+
+I'm a front-end developer and designer.
+
+My current skills include html/css and Javascript.
+
+In my spare time I like watching classic movies in 4K and catching up on classic anime. I also like listening to audiobooks.
+
+Latest read: Heavier than Heaven: A Biography of Kurt Cobain
+
 <!--
 **eddytowers/eddytowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
